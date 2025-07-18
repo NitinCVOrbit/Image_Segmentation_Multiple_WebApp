@@ -1,0 +1,3 @@
+from .Segmentation.deeplabv3_resnet50 import segmentation_deeplabv3_resnet50
+from .Segmentation.fcn_resnet50 import segmentation_fcn_resnet50
+from .Segmentation.unet_resnet34 import segmentation_unet_resnet34
